@@ -1,2 +1,4 @@
 Some text
-changes from master - new changes
+Changes from master
+Changes from main
+Text from master: new changes
